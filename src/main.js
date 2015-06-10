@@ -1,3 +1,7 @@
+//node src/main.js input/models hello hi
+
+//for run node "mainFilename" "inputDirectory" "populateContent" "populateContent" "..."
+
 var fs = require('fs');
 
 var getHeader = function(){
