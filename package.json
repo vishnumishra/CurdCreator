@@ -1,0 +1,25 @@
+{
+  "name": "curdcreator",
+  "version": "1.0.0",
+  "description": "It create CURD function for you.",
+  "main": "src/main.js",
+  "directories": {
+    "test": "test"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vishnumishra/CurdCreator.git"
+  },
+  "keywords": [
+    "sails",
+    "node",
+    "CURD"
+  ],
+  "author": "vishnu mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishnumishra/CurdCreator/issues"
+  },
+  "homepage": "https://github.com/vishnumishra/CurdCreator"
+}
